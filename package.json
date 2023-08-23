@@ -1,0 +1,29 @@
+{
+  "name": "swaggy",
+  "version": "1.0.0",
+  "description": "Namaste React swiggy tutorial",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jogacommuri/swaggy.git"
+  },
+  "author": "jogacommuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jogacommuri/swaggy/issues"
+  },
+  "homepage": "https://github.com/jogacommuri/swaggy#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.10",
+    "@babel/preset-react": "^7.22.5"
+  }
+}
